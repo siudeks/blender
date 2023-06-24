@@ -1,4 +1,11 @@
 # blender
-Some tests with Blender
+Some learning with Blender
 
-Blender: 2.3
+Subject: camera mapping
+The goal: convert pictures 2d -> 3d
+
+Tools:
+- Blender
+- gimp
+
+

@@ -8,4 +8,8 @@ Tools:
 - Blender
 - gimp
 
+##
+- Install Blender
+- Run blender (F1 -> Blender: start)
+- Run the script (F1 -> Blender: Run script)
 

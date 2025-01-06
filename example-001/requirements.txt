@@ -1,0 +1,8 @@
+# used to add honts aboput Blender objects
+fake-bpy-module-latest
+
+# used to format python code
+autopep8
+
+# used to check properties of images
+pyexiftool
